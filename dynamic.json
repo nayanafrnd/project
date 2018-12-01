@@ -1,0 +1,40 @@
+{
+  "career":{
+    "info":"To work in an environment where i improve my skills and also my knowledge about techniques"
+  },
+  "education":[
+    {
+      "Degree":"B.tech(IT)",
+      "Institute":"Vignans Nirula Istitute Of Technology And Science For Women",
+      "YOP":"2020",
+      "Percentage":"7.4"
+    },
+    {
+      "Degree":"Intermediate",
+      "Institute":"NRMK",
+      "YOP":"2016",
+      "Percentage":"88"
+    },
+    {
+      "Degree":"SSC",
+      "Institute":"Narayana Public School",
+      "YOP":"2014",
+      "Percentage":"7.8"
+    }
+  ],
+  "skills":[
+    {
+      "title":"Platform",
+      "content":"Windows,Linux"
+    },
+    {
+      "title":"Languages",
+      "content":"C,C++,Java,Python,Html,CSS,JS"
+    },
+    {
+      "title":"Database",
+      "content":"Sql,MySql,PLSQL"
+    }
+  ],
+  "Languages":"Telugu,Hindi,English,Tamil"
+}
